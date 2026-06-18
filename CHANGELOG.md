@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-16)
+## Unreleased (2026-06-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5d56e47`](https://github.com/stdlib-js/stdlib/commit/5d56e47f5bd22276fe377db7687b2055b21933d2) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`45848d1`](https://github.com/stdlib-js/stdlib/commit/45848d1dc0f91c2a851126a53e739375b8e7d67e) - **chore:** clean-up for changes introduced in previous commits [(#12921)](https://github.com/stdlib-js/stdlib/pull/12921) _(by Philipp Burckhardt)_
 -   [`ec3f1dd`](https://github.com/stdlib-js/stdlib/commit/ec3f1dde3a7b3ae3c8a24d80a01c3423d98f67ad) - **feat:** add `blas/ext/base/gindex-of-truthy` [(#12895)](https://github.com/stdlib-js/stdlib/pull/12895) _(by Muhammad Haris, Athan Reines)_
 
