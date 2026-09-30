@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-15)
+## Unreleased (2026-09-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`aa598c9`](https://github.com/stdlib-js/stdlib/commit/aa598c929946d8083d945a9cc47400b86aabd358) - **chore:** propagate fixes across `blas/ext/base` and `regexp` [(#12970)](https://github.com/stdlib-js/stdlib/pull/12970) _(by Philipp Burckhardt)_
 -   [`5d56e47`](https://github.com/stdlib-js/stdlib/commit/5d56e47f5bd22276fe377db7687b2055b21933d2) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`45848d1`](https://github.com/stdlib-js/stdlib/commit/45848d1dc0f91c2a851126a53e739375b8e7d67e) - **chore:** clean-up for changes introduced in previous commits [(#12921)](https://github.com/stdlib-js/stdlib/pull/12921) _(by Philipp Burckhardt)_
